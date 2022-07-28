@@ -22,10 +22,10 @@ In this project I lerned about grid and used two css file and in [style](style.c
 ### Duration Of Completing this project
 > Honestly it took me more than **6 hours** .
 
-[Visit This Project Live](https://abhi-project-1.netlify.app/)
+[Visit This Project Live](https://abhi-project-13.netlify.app/)
 
 
 #
 
-To see my work visit my [Portfolio]("my-portfolio-website")
+To see my work visit my [Portfolio](https://portfolio-of-abhishek.netlify.app)
 
