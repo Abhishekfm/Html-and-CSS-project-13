@@ -163,4 +163,94 @@ nav ul li a:hover{
 .code p,.code h1{
     background-color: #7030CC;
 }
+.screen-bars{
+    display: none;
+}
 
+@media screen and (max-width:1245px) {
+    .first-home{
+        width: 100%;
+    }
+    nav{
+        width: 100%;
+    }
+    nav ul li a{
+        margin-right: 20px;
+    }
+    nav ul{
+        padding-left: 20px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .div-second{
+        grid-template-columns: 1fr;
+    }
+    .div-second img{
+        width: 80%;
+    }
+    .boxes{
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media screen and (max-width:666px) {
+    .points{
+        margin-left: 0px;
+    }
+    .boxes{
+        margin: 20px;
+        row-gap: 20px;
+    }
+    .codext h1{
+        font-size: 30px;
+    }
+    nav ul li{
+        font-size: 13px;
+        margin-right: 0px;
+    }
+    .nav{
+        margin: 0px;
+        padding: 10px;
+    }
+    .first-home{
+        padding: 0px;
+    }
+    .home-logo img{
+        width: 80px;
+    }
+    .home-logo{
+        width: 60px;
+    }
+    .codext{
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+    .nav ul li:nth-child(4){
+        display: none;
+    }
+}
+
+@media screen and (max-width:406px) {
+    .nav ul li:nth-child(3){
+        display: none;
+    }
+    .home-logo {
+        width:80px;
+    }
+    .points p{
+        padding-right: 0px;
+    }
+    .boxes h1{
+        font-size: 18px;
+    }
+    .hov-p{
+        font-size: 16px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .nav{
+        overflow-x: hidden;
+    }
+}

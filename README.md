@@ -9,7 +9,7 @@
 ![Project 13 Home Page Image](home.png)
 
 #
-I learn how to connect two html pages by providing html source code address in href input to anchor tag.
+I learn how to connect two HTML pages by providing the HTML source code address in href input to the anchor tag.
 
 ## Project Service page
 
